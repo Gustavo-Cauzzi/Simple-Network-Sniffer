@@ -1,0 +1,2 @@
+PROTOCOL_KEYS_PREFIX = 'IPPROTO_'
+OUTPUT_FILE = 'result.txt'
